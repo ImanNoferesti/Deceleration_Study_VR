@@ -2,7 +2,7 @@
 
 Welcome to the repository for our Unity-based VR study, which investigates how distance and deceleration rates influence pedestrians' ability to perceive vehicle slowing. This project combines immersive technologies and human perception research to enhance understanding of pedestrian decision-making in road-crossing scenarios.
 
-![Perception of Vehicle Deceleration Image](./images/Image_1.png)
+![Perception of Vehicle Deceleration Image](./Images/Image_1.png)
 
 ## Background & Motivation
 Inspired by previous research where vehicles yielded to pedestrians, we observed that participants crossed earlier when vehicles decelerated gradually compared to abrupt stops. However, the time difference in crossing decisions was much smaller than the difference in stopping times between gradual and abrupt deceleration.
