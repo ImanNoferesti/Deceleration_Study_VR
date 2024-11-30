@@ -14,7 +14,7 @@ The experiment consisted of 160 trials presented to participants in a random ord
 
 ### Trial Parameters
 
-| **Velocity (m/s)**    | **Deceleration (m/s²)** | **Constant Velocity** |                   | **Deceleration** |                   | **Total**         |                   |
+| **Velocity (m/s)**    | **Deceleration (m/s²)** | **Movement with Constant Velocity** |                   | **Movement with Deceleration** |                   | **Total**         |                   |
 |------------------------|--------------------------|-----------------------|-------------------|------------------|-------------------|-------------------|-------------------|
 |                        |                          | **Distance (m)**      | **Time (s)**      | **Distance (m)** | **Time (s)**      | **Distance (m)**  | **Time (s)**      |
 | 8.37 (18.72 mph)      | -1.4                   | 95                 | 11.35              | 25               | 5.98              | 120             | 17.33              |
