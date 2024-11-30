@@ -39,14 +39,17 @@ The experiment consisted of 160 trials presented to participants in a random ord
     * **Road:** A fully realistic environment is created, including a road and all associated elements.
 
 <p align="center">
+   <strong><h3>Condition: Air | V = 13.04 m/s | D = -3.4 m/s^2 </h3></strong>
   <img src="./Images/AIR.gif" alt="Condition:AIR" />
 </p>
 
 <p align="center">
+   <strong><h3>Condition: Ground | V = 15.17 m/s | D = 0 m/s^2 </h3></strong>
   <img src="./Images/GROUND.gif" alt="Condition:GROUND" />
 </p>
 
 <p align="center">
+   <strong><h3>Condition: Road | V = 17.46 m/s | D = -6.1 m/s^2 </h3></strong>
   <img src="./Images/ROAD.gif" alt="Condition:ROAD" />
 </p>
    
