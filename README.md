@@ -37,6 +37,12 @@ The experiment consisted of 160 trials presented to participants in a random ord
     * **Air:** Only the vehicle is present, with no additional environmental elements.
     * **Ground:** A planar surface and sky are added to provide a visible horizon line.
     * **Road:** A fully realistic environment is created, including a road and all associated elements.
+      
+![Condition:AIR](./Images/AIR.gif)
+
+![Condition:GROUND](./Images/GROUND.gif)
+
+![Condition:ROAD](./Images/ROAD.gif)
 
 ## Current Status & Applications
 * The results are currently being analyzed, with a manuscript in preparation.
