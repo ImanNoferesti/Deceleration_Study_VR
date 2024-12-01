@@ -10,7 +10,13 @@ Inspired by previous research where vehicles yielded to pedestrians, we observed
 This prompted us to investigate whether gradual deceleration is harder to perceive, especially when vehicles begin slowing from a greater distance. The study examines how visual cues—such as motion, optic flow, and perspective—impact pedestrians' perception of deceleration in VR environments.
 
 ## Experiment Overview
-Participants observed a virtual vehicle approaching them while wearing a VR headset. They were tasked with pressing a trigger button when they noticed the vehicle begin to decelerate.
+Participants observed a virtual vehicle approaching them while wearing a VR headset. They were tasked with pressing a trigger button when they noticed the vehicle begin to decelerate. During the experiment, we recorded the following variables to gain deeper insights:
+
+* **Response Time:** Time taken by participants to detect deceleration.
+* **Visual Angle:** Angular size of the vehicle from the participant's viewpoint.
+* **Rate of Change of Visual Angle:** How quickly the visual angle changes as the vehicle approaches.
+* **Tau:** Time-to-contact based on optical flow.
+* **Tau-dot:** Rate of change of tau, providing additional temporal information.
 
 The experiment consisted of 160 trials presented to participants in a random order. In half of these trials, the vehicle moved at a constant velocity without decelerating. In the other half, the vehicle decelerated with parameters chosen randomly from predefined categories, ensuring each category was sampled 10 times.
 
