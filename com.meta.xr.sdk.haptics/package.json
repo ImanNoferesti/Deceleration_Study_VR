@@ -1,0 +1,14 @@
+{
+  "name": "com.meta.xr.sdk.haptics",
+  "displayName": "Meta XR Haptics SDK",
+  "version": "1.0.0-beta.7",
+  "description": "Unity package with a set of features that enable better haptics on Oculus Quest devices",
+  "unity": "2021.3",
+  "samples": [
+    {
+        "displayName": "Minimal Integration Example",
+        "description": "Contains an example scene, showcasing playback and modulation of haptics using the Haptics SDK.",
+        "path": "Samples~/IntegrationExample"
+    }
+  ]
+}

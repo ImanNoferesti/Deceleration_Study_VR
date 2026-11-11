@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.meta.xr.sdk.haptics": "file:E:/com.meta.xr.sdk.haptics",
+    "com.meta.xr.sdk.haptics": "file:D:/GitHub/Deceleration_Study_VR/com.meta.xr.sdk.haptics",
     "com.unity.collab-proxy": "2.0.4",
     "com.unity.ide.rider": "3.0.27",
     "com.unity.ide.visualstudio": "2.0.22",
